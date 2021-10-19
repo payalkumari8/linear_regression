@@ -1,0 +1,21 @@
+## Project Outline 
+
+The goal of this project is to predict the insurance cost accurately.
+
+The dataset used for this project was colected from Kaggle. 
+
+This dataset has 6 variables:
+
+Age 
+Sex 
+BMI
+Children
+Smoker
+Region
+Charges
+
+
+Each variable was analysis to find out which affect the medical cost mostly.
+
+It was concluded that Smoke, age, BMI and total dependents are the variable that can be used to predict the medical cost insurance.
+
